@@ -1,4 +1,4 @@
-# L2 - 01: Creative Image Generation with GANs
+#  Creative Image Generation with GANs
 
 ## Overview
 
